@@ -1,0 +1,19 @@
+# The Application Study of Blockchain Technology in Supply Chain Finance
+## PHBS BlockChain Course Final Report
+**Abstract:** Supply chain finance has become one of the hotspots application of blockchain, for the reason includes that blockchain based supply chain finance can simplify the application process, promote credit and credit investigation related business, and improve the social and economic benefits of this system. In order to give a comprehensive analysis and systematic overview of blockchain-enabled supply chain finance, this paper firstly introduce the definition and composition of supply chain finance and blockchain technology, then summarize the finding results in the literature. Specifically, practical application cases are also introduced to provide helpful guidance and reference for future research efforts of blockchain-enabled supply chain finance.
+
+**Keywords:** supply chain finance; blockchain technology; smart contract
+
+1.Introduction
+
+Because in supply chain finance the credit sharing and risk sharing of core enterprises have reduced the requirement of borrowing qualification, supply chain finance can play a role in solving the financing problems of small and medium-sized enterprises (SMEs). However, the supply chain finance has not been developed rapidly though the demand is huge and the financing problem of SMEs is still serious. This is because the supply chain itself is a complex network system and the problems of asymmetric information and low transmission efficiency existing among participants restrict the development of supply chain finance. Blockchain technology has inherent advantages to solve the problem of financial information asymmetry and others in supply chain, which is a comprehensive system integrates consensus mechanism, encryption algorithm, distributed data storage and other advanced researching results.
+
+2.Conceptual background
+
+2.1	Supply chain finance and its challenges 
+
+Due to globalization, increased competition and higher levels of risks in the supply chain, many companies are facing complexity and uncertainty in their businesses (De Boer et al., 2015). Many firms have recognized to optimize not only the flow of materials and information, but also the financial streams. The optimization of financial flows and the allocation of working capital in the supply chain has led to improvements of the overall supply chain performance and to a reduction of financial risk (Omran et al.,2017). supply chain finance has been defined in different ways in literature. Timme (2000) puts forward the concept of supply chain finance,  he defines it as the cooperation between enterprises in the supply chain and financial service providers off the supply chain, considering the material flow, information flow and financial flow integrated in the supply chain. Hofmann (2005) describes supply chain finance as an approach for two or more participants in a supply chain, including external service providers to jointly create value through means of planning, steering, and controlling of financial resources on an inter-organizational level. Hu and Huang (2009) define supply chain finance as financing and related services pricing and market trading activities carried out by people in order to meet the capital needs of supply chain producing system. Zhou and Li (2016) describe supply chain finance as a comprehensive financial solution provided for small and medium enterprises (SMEs). supply chain finance itself has also evolved from the earliest version, which is artificial credit granting mode based on the credit of core enterprise, to integrated information platform supported by internet technologies. By supply chain finance, bank can obtain all the information of organizations in the supply chain and make breakthroughs in service to cover more SMEs.
+
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
